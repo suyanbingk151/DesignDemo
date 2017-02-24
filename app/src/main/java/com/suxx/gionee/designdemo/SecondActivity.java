@@ -19,4 +19,7 @@ public class SecondActivity {
   public void setNum(){
 
   }
+  
+  public void setFout(){
+  }
 }
