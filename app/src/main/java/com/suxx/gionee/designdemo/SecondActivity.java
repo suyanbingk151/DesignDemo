@@ -8,7 +8,7 @@ import android.util.Log;
 public class SecondActivity {
 
   public SecondActivity(){
-
+    Log.i("tag","test");
   }
 
 }
