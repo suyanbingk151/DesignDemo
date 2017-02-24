@@ -11,4 +11,8 @@ public class SecondActivity {
     Log.i("tag","test");
   }
 
+  
+  public void setList(){
+    
+  }
 }
