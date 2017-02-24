@@ -15,4 +15,7 @@ public class SecondActivity {
   public void setList(){
     
   }
+  
+  public void seta(){
+  }
 }
