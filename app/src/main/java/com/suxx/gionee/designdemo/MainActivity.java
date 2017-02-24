@@ -79,5 +79,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     @Override
     public void onClick(View v) {
         Snackbar.make(v,"Snackbar",Snackbar.LENGTH_LONG).show();
+        Log.i("tag","test");
     }
 }
